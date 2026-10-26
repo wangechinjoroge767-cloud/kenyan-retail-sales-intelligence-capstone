@@ -1,0 +1,13 @@
+sheet,stage,rows,columns,missing_cells,exact_duplicate_rows
+Raw_Sales,before,10035,20,5657,0
+Customers,before,1200,5,0,0
+Stores,before,18,6,0,0
+Products,before,24,4,0,0
+Read_Me,before,13,2,0,0
+Data_Dictionary,before,18,2,0,0
+Raw_Sales,after,10035,20,0,0
+Customers,after,1200,5,0,0
+Stores,after,18,6,0,0
+Products,after,24,4,0,0
+Read_Me,after,13,2,0,0
+Data_Dictionary,after,18,2,0,0

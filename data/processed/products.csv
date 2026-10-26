@@ -1,0 +1,25 @@
+product_id,product_name,category,standard_unit_price_kes
+PR001,Maize Flour 2kg,Food & Pantry,180
+PR002,Rice 2kg,Food & Pantry,320
+PR003,Cooking Oil 1L,Food & Pantry,280
+PR004,Sugar 2kg,Food & Pantry,310
+PR005,Tea Leaves 500g,Food & Pantry,260
+PR006,Milk 1L,Dairy & Chilled,75
+PR007,Yoghurt 500ml,Dairy & Chilled,140
+PR008,Bread Loaf,Bakery,70
+PR009,Eggs Tray 30,Dairy & Chilled,520
+PR010,Laundry Detergent 1kg,Household,230
+PR011,Dishwashing Liquid 500ml,Household,160
+PR012,Toilet Tissue 10-pack,Household,250
+PR013,Bathing Soap 4-pack,Personal Care,190
+PR014,Toothpaste 150ml,Personal Care,170
+PR015,Shampoo 400ml,Personal Care,420
+PR016,Bottled Water 1.5L,Beverages,80
+PR017,Soda 2L,Beverages,150
+PR018,Coffee 100g,Beverages,350
+PR019,USB Cable,Electronics & Accessories,450
+PR020,Phone Charger,Electronics & Accessories,950
+PR021,School Exercise Books 10-pack,Stationery,300
+PR022,Ballpoint Pens 10-pack,Stationery,120
+PR023,Cooking Gas Refill 6kg,Home Essentials,1450
+PR024,Reusable Shopping Bag,Home Essentials,80

@@ -1,0 +1,1201 @@
+customer_id,customer_county,customer_town,customer_segment,loyalty_member
+CUST00001,Kiambu,Thika,Value Seeker,No
+CUST00002,Kiambu,Thika,Loyal,No
+CUST00003,Kisumu,Mamboleo,Value Seeker,No
+CUST00004,Mombasa,Likoni,Everyday,No
+CUST00005,Kiambu,Kiambu Town,Value Seeker,Yes
+CUST00006,Mombasa,Likoni,Everyday,Yes
+CUST00007,Uasin Gishu,Eldoret Town,Everyday,Yes
+CUST00008,Uasin Gishu,Eldoret Town,Everyday,Yes
+CUST00009,Uasin Gishu,Eldoret Town,Value Seeker,No
+CUST00010,Nyeri,Nyeri Town,Everyday,Yes
+CUST00011,Kisumu,Mamboleo,Loyal,No
+CUST00012,Uasin Gishu,Eldoret Town,Premium,Yes
+CUST00013,Nyeri,Nyeri Town,Loyal,Yes
+CUST00014,Mombasa,Mombasa CBD,Everyday,No
+CUST00015,Kiambu,Ruiru,Everyday,No
+CUST00016,Kisumu,Kisumu CBD,Value Seeker,Yes
+CUST00017,Kisumu,Mamboleo,Everyday,No
+CUST00018,Mombasa,Likoni,Everyday,No
+CUST00019,Mombasa,Mombasa CBD,Loyal,No
+CUST00020,Nakuru,Nakuru Town,Everyday,Yes
+CUST00021,Nairobi,Eastleigh,Value Seeker,Yes
+CUST00022,Uasin Gishu,Eldoret Town,Everyday,Yes
+CUST00023,Kiambu,Thika,Loyal,Yes
+CUST00024,Mombasa,Nyali,Value Seeker,Yes
+CUST00025,Kisumu,Mamboleo,Premium,Yes
+CUST00026,Kisumu,Mamboleo,Premium,No
+CUST00027,Nyeri,Nyeri Town,Everyday,Yes
+CUST00028,Kiambu,Ruiru,Everyday,Yes
+CUST00029,Nakuru,Nakuru Town,Everyday,Yes
+CUST00030,Nakuru,Nakuru Town,Loyal,No
+CUST00031,Kiambu,Kiambu Town,Everyday,No
+CUST00032,Nakuru,Nakuru Town,Loyal,No
+CUST00033,Nakuru,Naivasha,Loyal,Yes
+CUST00034,Kiambu,Thika,Value Seeker,No
+CUST00035,Machakos,Athi River,Value Seeker,Yes
+CUST00036,Kiambu,Thika,Everyday,No
+CUST00037,Kiambu,Thika,Everyday,No
+CUST00038,Mombasa,Likoni,Everyday,No
+CUST00039,Nakuru,Nakuru Town,Everyday,Yes
+CUST00040,Nairobi,Westlands,Premium,Yes
+CUST00041,Mombasa,Likoni,Value Seeker,Yes
+CUST00042,Machakos,Machakos Town,Everyday,Yes
+CUST00043,Machakos,Athi River,Premium,No
+CUST00044,Kisumu,Mamboleo,Value Seeker,No
+CUST00045,Mombasa,Nyali,Everyday,Yes
+CUST00046,Nairobi,Eastleigh,Everyday,No
+CUST00047,Mombasa,Nyali,Premium,Yes
+CUST00048,Mombasa,Nyali,Value Seeker,Yes
+CUST00049,Machakos,Machakos Town,Premium,Yes
+CUST00050,Nairobi,Westlands,Everyday,No
+CUST00051,Kisumu,Kisumu CBD,Value Seeker,No
+CUST00052,Nakuru,Naivasha,Everyday,No
+CUST00053,Nyeri,Nyeri Town,Premium,Yes
+CUST00054,Nairobi,Embakasi,Value Seeker,Yes
+CUST00055,Kiambu,Kiambu Town,Everyday,No
+CUST00056,Mombasa,Likoni,Loyal,Yes
+CUST00057,Uasin Gishu,Eldoret Town,Everyday,No
+CUST00058,Nairobi,Eastleigh,Premium,Yes
+CUST00059,Mombasa,Likoni,Everyday,Yes
+CUST00060,Mombasa,Likoni,Everyday,Yes
+CUST00061,Uasin Gishu,Eldoret Town,Value Seeker,No
+CUST00062,Nyeri,Nyeri Town,Loyal,Yes
+CUST00063,Kiambu,Kiambu Town,Everyday,No
+CUST00064,Nairobi,Westlands,Everyday,Yes
+CUST00065,Kisumu,Kisumu CBD,Loyal,No
+CUST00066,Nairobi,Westlands,Everyday,Yes
+CUST00067,Nairobi,Eastleigh,Value Seeker,Yes
+CUST00068,Machakos,Machakos Town,Everyday,No
+CUST00069,Nairobi,Eastleigh,Everyday,Yes
+CUST00070,Kiambu,Ruiru,Loyal,No
+CUST00071,Mombasa,Nyali,Loyal,Yes
+CUST00072,Machakos,Machakos Town,Everyday,No
+CUST00073,Machakos,Machakos Town,Everyday,Yes
+CUST00074,Machakos,Machakos Town,Loyal,Yes
+CUST00075,Nakuru,Naivasha,Everyday,Yes
+CUST00076,Nakuru,Nakuru Town,Value Seeker,No
+CUST00077,Uasin Gishu,Eldoret Town,Loyal,No
+CUST00078,Uasin Gishu,Eldoret Town,Value Seeker,No
+CUST00079,Nairobi,Westlands,Loyal,No
+CUST00080,Mombasa,Mombasa CBD,Premium,No
+CUST00081,Nairobi,Westlands,Value Seeker,No
+CUST00082,Uasin Gishu,Eldoret Town,Value Seeker,Yes
+CUST00083,Machakos,Machakos Town,Everyday,No
+CUST00084,Nairobi,Kilimani,Everyday,Yes
+CUST00085,Uasin Gishu,Eldoret Town,Value Seeker,Yes
+CUST00086,Kisumu,Mamboleo,Value Seeker,No
+CUST00087,Machakos,Athi River,Value Seeker,Yes
+CUST00088,Machakos,Athi River,Value Seeker,Yes
+CUST00089,Kisumu,Mamboleo,Value Seeker,Yes
+CUST00090,Kisumu,Mamboleo,Everyday,No
+CUST00091,Nyeri,Nyeri Town,Everyday,Yes
+CUST00092,Nyeri,Nyeri Town,Value Seeker,No
+CUST00093,Uasin Gishu,Eldoret Town,Loyal,Yes
+CUST00094,Kisumu,Kisumu CBD,Loyal,Yes
+CUST00095,Nairobi,Westlands,Everyday,No
+CUST00096,Kiambu,Ruiru,Everyday,Yes
+CUST00097,Machakos,Athi River,Everyday,Yes
+CUST00098,Nairobi,Westlands,Loyal,Yes
+CUST00099,Mombasa,Mombasa CBD,Value Seeker,Yes
+CUST00100,Nakuru,Nakuru Town,Value Seeker,No
+CUST00101,Uasin Gishu,Eldoret Town,Value Seeker,No
+CUST00102,Nyeri,Nyeri Town,Loyal,No
+CUST00103,Nyeri,Nyeri Town,Loyal,No
+CUST00104,Nyeri,Nyeri Town,Everyday,Yes
+CUST00105,Kisumu,Kisumu CBD,Everyday,No
+CUST00106,Kiambu,Thika,Everyday,No
+CUST00107,Mombasa,Mombasa CBD,Everyday,No
+CUST00108,Machakos,Athi River,Value Seeker,No
+CUST00109,Nairobi,Kilimani,Loyal,No
+CUST00110,Nairobi,Embakasi,Value Seeker,No
+CUST00111,Kisumu,Mamboleo,Loyal,No
+CUST00112,Nakuru,Naivasha,Everyday,No
+CUST00113,Nyeri,Nyeri Town,Everyday,No
+CUST00114,Mombasa,Likoni,Loyal,Yes
+CUST00115,Machakos,Machakos Town,Everyday,No
+CUST00116,Mombasa,Likoni,Everyday,No
+CUST00117,Machakos,Athi River,Everyday,No
+CUST00118,Uasin Gishu,Eldoret Town,Everyday,No
+CUST00119,Kisumu,Kisumu CBD,Value Seeker,Yes
+CUST00120,Uasin Gishu,Eldoret Town,Value Seeker,Yes
+CUST00121,Nairobi,Kilimani,Everyday,Yes
+CUST00122,Mombasa,Nyali,Everyday,Yes
+CUST00123,Nakuru,Naivasha,Value Seeker,No
+CUST00124,Mombasa,Mombasa CBD,Value Seeker,Yes
+CUST00125,Mombasa,Likoni,Everyday,Yes
+CUST00126,Kisumu,Mamboleo,Everyday,Yes
+CUST00127,Kiambu,Kiambu Town,Value Seeker,Yes
+CUST00128,Kiambu,Kiambu Town,Loyal,Yes
+CUST00129,Nairobi,Eastleigh,Value Seeker,No
+CUST00130,Kiambu,Kiambu Town,Value Seeker,Yes
+CUST00131,Machakos,Athi River,Everyday,No
+CUST00132,Nyeri,Nyeri Town,Everyday,No
+CUST00133,Nyeri,Nyeri Town,Everyday,No
+CUST00134,Uasin Gishu,Eldoret Town,Loyal,Yes
+CUST00135,Kisumu,Mamboleo,Everyday,No
+CUST00136,Machakos,Athi River,Everyday,No
+CUST00137,Mombasa,Likoni,Everyday,No
+CUST00138,Uasin Gishu,Eldoret Town,Loyal,No
+CUST00139,Nairobi,Kilimani,Everyday,No
+CUST00140,Nyeri,Nyeri Town,Value Seeker,No
+CUST00141,Nyeri,Nyeri Town,Everyday,Yes
+CUST00142,Machakos,Machakos Town,Everyday,No
+CUST00143,Nyeri,Nyeri Town,Everyday,No
+CUST00144,Uasin Gishu,Eldoret Town,Everyday,No
+CUST00145,Nakuru,Nakuru Town,Loyal,No
+CUST00146,Kiambu,Kiambu Town,Value Seeker,Yes
+CUST00147,Nakuru,Nakuru Town,Loyal,No
+CUST00148,Kisumu,Kisumu CBD,Loyal,No
+CUST00149,Nakuru,Naivasha,Everyday,Yes
+CUST00150,Mombasa,Likoni,Everyday,Yes
+CUST00151,Kisumu,Kisumu CBD,Value Seeker,No
+CUST00152,Kiambu,Thika,Value Seeker,No
+CUST00153,Nyeri,Nyeri Town,Everyday,Yes
+CUST00154,Kisumu,Mamboleo,Everyday,Yes
+CUST00155,Machakos,Athi River,Everyday,Yes
+CUST00156,Mombasa,Nyali,Loyal,No
+CUST00157,Kiambu,Thika,Everyday,No
+CUST00158,Nakuru,Naivasha,Value Seeker,No
+CUST00159,Kisumu,Mamboleo,Everyday,Yes
+CUST00160,Kiambu,Thika,Value Seeker,No
+CUST00161,Kiambu,Thika,Everyday,Yes
+CUST00162,Mombasa,Nyali,Everyday,No
+CUST00163,Kisumu,Kisumu CBD,Everyday,No
+CUST00164,Nyeri,Nyeri Town,Value Seeker,No
+CUST00165,Nakuru,Naivasha,Everyday,Yes
+CUST00166,Mombasa,Likoni,Loyal,Yes
+CUST00167,Nairobi,Kilimani,Loyal,No
+CUST00168,Nyeri,Nyeri Town,Value Seeker,No
+CUST00169,Machakos,Athi River,Value Seeker,No
+CUST00170,Nyeri,Nyeri Town,Value Seeker,No
+CUST00171,Uasin Gishu,Eldoret Town,Everyday,Yes
+CUST00172,Nairobi,Eastleigh,Value Seeker,Yes
+CUST00173,Nyeri,Nyeri Town,Loyal,Yes
+CUST00174,Machakos,Athi River,Premium,No
+CUST00175,Uasin Gishu,Eldoret Town,Everyday,Yes
+CUST00176,Mombasa,Likoni,Everyday,No
+CUST00177,Kisumu,Mamboleo,Loyal,Yes
+CUST00178,Nyeri,Nyeri Town,Everyday,No
+CUST00179,Kiambu,Ruiru,Loyal,Yes
+CUST00180,Nyeri,Nyeri Town,Everyday,No
+CUST00181,Nyeri,Nyeri Town,Loyal,Yes
+CUST00182,Kisumu,Kisumu CBD,Premium,No
+CUST00183,Nyeri,Nyeri Town,Everyday,Yes
+CUST00184,Mombasa,Likoni,Value Seeker,No
+CUST00185,Kiambu,Thika,Premium,Yes
+CUST00186,Nyeri,Nyeri Town,Value Seeker,Yes
+CUST00187,Nyeri,Nyeri Town,Value Seeker,No
+CUST00188,Machakos,Athi River,Premium,Yes
+CUST00189,Nyeri,Nyeri Town,Everyday,Yes
+CUST00190,Kiambu,Ruiru,Loyal,No
+CUST00191,Uasin Gishu,Eldoret Town,Loyal,No
+CUST00192,Kisumu,Mamboleo,Loyal,No
+CUST00193,Nyeri,Nyeri Town,Everyday,No
+CUST00194,Nyeri,Nyeri Town,Loyal,Yes
+CUST00195,Machakos,Machakos Town,Loyal,No
+CUST00196,Nairobi,Eastleigh,Loyal,No
+CUST00197,Machakos,Machakos Town,Value Seeker,Yes
+CUST00198,Mombasa,Mombasa CBD,Premium,No
+CUST00199,Kiambu,Ruiru,Everyday,No
+CUST00200,Nairobi,Kilimani,Everyday,Yes
+CUST00201,Kiambu,Ruiru,Loyal,No
+CUST00202,Uasin Gishu,Eldoret Town,Value Seeker,No
+CUST00203,Machakos,Athi River,Value Seeker,No
+CUST00204,Nairobi,Westlands,Everyday,No
+CUST00205,Nakuru,Nakuru Town,Everyday,Yes
+CUST00206,Kiambu,Ruiru,Everyday,No
+CUST00207,Nairobi,Westlands,Everyday,Yes
+CUST00208,Kisumu,Mamboleo,Everyday,Yes
+CUST00209,Nakuru,Naivasha,Value Seeker,Yes
+CUST00210,Mombasa,Nyali,Everyday,No
+CUST00211,Nakuru,Naivasha,Loyal,Yes
+CUST00212,Nakuru,Naivasha,Value Seeker,No
+CUST00213,Kisumu,Kisumu CBD,Loyal,No
+CUST00214,Kisumu,Kisumu CBD,Everyday,No
+CUST00215,Kisumu,Mamboleo,Value Seeker,No
+CUST00216,Kisumu,Kisumu CBD,Premium,No
+CUST00217,Kiambu,Thika,Everyday,No
+CUST00218,Kisumu,Mamboleo,Everyday,No
+CUST00219,Kisumu,Kisumu CBD,Value Seeker,Yes
+CUST00220,Nyeri,Nyeri Town,Loyal,Yes
+CUST00221,Uasin Gishu,Eldoret Town,Value Seeker,No
+CUST00222,Mombasa,Mombasa CBD,Everyday,Yes
+CUST00223,Kisumu,Mamboleo,Everyday,No
+CUST00224,Mombasa,Nyali,Loyal,No
+CUST00225,Machakos,Machakos Town,Everyday,No
+CUST00226,Kisumu,Kisumu CBD,Everyday,No
+CUST00227,Kisumu,Mamboleo,Loyal,No
+CUST00228,Kiambu,Thika,Loyal,Yes
+CUST00229,Machakos,Athi River,Everyday,No
+CUST00230,Nairobi,Eastleigh,Value Seeker,No
+CUST00231,Uasin Gishu,Eldoret Town,Value Seeker,No
+CUST00232,Kiambu,Kiambu Town,Everyday,Yes
+CUST00233,Uasin Gishu,Eldoret Town,Value Seeker,No
+CUST00234,Kisumu,Mamboleo,Everyday,Yes
+CUST00235,Nairobi,Eastleigh,Premium,Yes
+CUST00236,Kiambu,Thika,Loyal,Yes
+CUST00237,Machakos,Athi River,Everyday,No
+CUST00238,Mombasa,Likoni,Value Seeker,No
+CUST00239,Machakos,Athi River,Everyday,No
+CUST00240,Nakuru,Naivasha,Everyday,Yes
+CUST00241,Uasin Gishu,Eldoret Town,Premium,No
+CUST00242,Uasin Gishu,Eldoret Town,Everyday,Yes
+CUST00243,Kiambu,Ruiru,Everyday,Yes
+CUST00244,Nairobi,Westlands,Loyal,Yes
+CUST00245,Mombasa,Mombasa CBD,Everyday,Yes
+CUST00246,Nakuru,Nakuru Town,Everyday,Yes
+CUST00247,Nairobi,Eastleigh,Loyal,Yes
+CUST00248,Mombasa,Mombasa CBD,Everyday,Yes
+CUST00249,Kiambu,Kiambu Town,Loyal,Yes
+CUST00250,Nairobi,Eastleigh,Loyal,Yes
+CUST00251,Uasin Gishu,Eldoret Town,Everyday,Yes
+CUST00252,Mombasa,Mombasa CBD,Everyday,Yes
+CUST00253,Kiambu,Ruiru,Everyday,No
+CUST00254,Kiambu,Ruiru,Value Seeker,Yes
+CUST00255,Kisumu,Mamboleo,Value Seeker,Yes
+CUST00256,Nairobi,Embakasi,Loyal,No
+CUST00257,Kiambu,Ruiru,Loyal,No
+CUST00258,Kiambu,Thika,Everyday,Yes
+CUST00259,Kiambu,Thika,Everyday,No
+CUST00260,Machakos,Athi River,Value Seeker,No
+CUST00261,Kiambu,Kiambu Town,Everyday,Yes
+CUST00262,Machakos,Athi River,Loyal,No
+CUST00263,Uasin Gishu,Eldoret Town,Everyday,Yes
+CUST00264,Uasin Gishu,Eldoret Town,Everyday,No
+CUST00265,Uasin Gishu,Eldoret Town,Value Seeker,No
+CUST00266,Kiambu,Thika,Loyal,Yes
+CUST00267,Machakos,Machakos Town,Loyal,No
+CUST00268,Mombasa,Mombasa CBD,Everyday,No
+CUST00269,Kiambu,Ruiru,Everyday,No
+CUST00270,Nairobi,Eastleigh,Value Seeker,No
+CUST00271,Kiambu,Kiambu Town,Value Seeker,Yes
+CUST00272,Nyeri,Nyeri Town,Loyal,No
+CUST00273,Uasin Gishu,Eldoret Town,Loyal,Yes
+CUST00274,Machakos,Machakos Town,Value Seeker,No
+CUST00275,Nairobi,Kilimani,Everyday,No
+CUST00276,Uasin Gishu,Eldoret Town,Everyday,Yes
+CUST00277,Machakos,Machakos Town,Everyday,Yes
+CUST00278,Kiambu,Kiambu Town,Value Seeker,No
+CUST00279,Machakos,Athi River,Everyday,No
+CUST00280,Kisumu,Mamboleo,Loyal,Yes
+CUST00281,Nairobi,Kilimani,Everyday,Yes
+CUST00282,Kiambu,Ruiru,Everyday,No
+CUST00283,Nyeri,Nyeri Town,Everyday,Yes
+CUST00284,Kiambu,Ruiru,Everyday,No
+CUST00285,Nyeri,Nyeri Town,Everyday,No
+CUST00286,Nairobi,Westlands,Everyday,Yes
+CUST00287,Mombasa,Likoni,Everyday,Yes
+CUST00288,Nairobi,Embakasi,Loyal,Yes
+CUST00289,Mombasa,Likoni,Value Seeker,Yes
+CUST00290,Uasin Gishu,Eldoret Town,Everyday,Yes
+CUST00291,Machakos,Machakos Town,Value Seeker,Yes
+CUST00292,Uasin Gishu,Eldoret Town,Value Seeker,No
+CUST00293,Kisumu,Kisumu CBD,Everyday,No
+CUST00294,Mombasa,Mombasa CBD,Value Seeker,No
+CUST00295,Kiambu,Ruiru,Loyal,Yes
+CUST00296,Machakos,Athi River,Value Seeker,No
+CUST00297,Kisumu,Mamboleo,Everyday,Yes
+CUST00298,Kiambu,Kiambu Town,Value Seeker,Yes
+CUST00299,Uasin Gishu,Eldoret Town,Loyal,Yes
+CUST00300,Nakuru,Nakuru Town,Everyday,Yes
+CUST00301,Mombasa,Mombasa CBD,Everyday,Yes
+CUST00302,Mombasa,Mombasa CBD,Value Seeker,No
+CUST00303,Uasin Gishu,Eldoret Town,Everyday,Yes
+CUST00304,Nyeri,Nyeri Town,Value Seeker,No
+CUST00305,Nairobi,Eastleigh,Value Seeker,No
+CUST00306,Nyeri,Nyeri Town,Everyday,No
+CUST00307,Kisumu,Kisumu CBD,Value Seeker,Yes
+CUST00308,Machakos,Athi River,Value Seeker,Yes
+CUST00309,Nyeri,Nyeri Town,Everyday,No
+CUST00310,Mombasa,Nyali,Value Seeker,No
+CUST00311,Kiambu,Kiambu Town,Value Seeker,Yes
+CUST00312,Nakuru,Naivasha,Premium,Yes
+CUST00313,Uasin Gishu,Eldoret Town,Loyal,No
+CUST00314,Machakos,Athi River,Value Seeker,Yes
+CUST00315,Uasin Gishu,Eldoret Town,Everyday,No
+CUST00316,Kisumu,Mamboleo,Loyal,Yes
+CUST00317,Uasin Gishu,Eldoret Town,Value Seeker,Yes
+CUST00318,Uasin Gishu,Eldoret Town,Premium,No
+CUST00319,Mombasa,Mombasa CBD,Loyal,Yes
+CUST00320,Kisumu,Mamboleo,Value Seeker,No
+CUST00321,Mombasa,Mombasa CBD,Loyal,Yes
+CUST00322,Machakos,Athi River,Everyday,No
+CUST00323,Mombasa,Nyali,Everyday,No
+CUST00324,Nakuru,Nakuru Town,Premium,Yes
+CUST00325,Kiambu,Ruiru,Loyal,Yes
+CUST00326,Nairobi,Eastleigh,Loyal,Yes
+CUST00327,Machakos,Machakos Town,Everyday,Yes
+CUST00328,Nyeri,Nyeri Town,Everyday,Yes
+CUST00329,Nyeri,Nyeri Town,Loyal,No
+CUST00330,Nakuru,Nakuru Town,Everyday,No
+CUST00331,Nakuru,Naivasha,Value Seeker,No
+CUST00332,Nyeri,Nyeri Town,Loyal,No
+CUST00333,Mombasa,Nyali,Loyal,Yes
+CUST00334,Kisumu,Kisumu CBD,Value Seeker,No
+CUST00335,Kiambu,Kiambu Town,Loyal,Yes
+CUST00336,Kisumu,Kisumu CBD,Loyal,No
+CUST00337,Nyeri,Nyeri Town,Loyal,Yes
+CUST00338,Nakuru,Naivasha,Loyal,Yes
+CUST00339,Machakos,Machakos Town,Everyday,No
+CUST00340,Nakuru,Naivasha,Premium,No
+CUST00341,Nakuru,Nakuru Town,Everyday,Yes
+CUST00342,Uasin Gishu,Eldoret Town,Everyday,No
+CUST00343,Nyeri,Nyeri Town,Loyal,No
+CUST00344,Nyeri,Nyeri Town,Loyal,Yes
+CUST00345,Kisumu,Kisumu CBD,Loyal,No
+CUST00346,Kiambu,Ruiru,Everyday,Yes
+CUST00347,Nairobi,Kilimani,Everyday,No
+CUST00348,Kiambu,Thika,Loyal,No
+CUST00349,Nairobi,Kilimani,Loyal,No
+CUST00350,Machakos,Machakos Town,Value Seeker,Yes
+CUST00351,Machakos,Machakos Town,Value Seeker,Yes
+CUST00352,Uasin Gishu,Eldoret Town,Premium,Yes
+CUST00353,Machakos,Athi River,Everyday,No
+CUST00354,Uasin Gishu,Eldoret Town,Loyal,No
+CUST00355,Kiambu,Ruiru,Everyday,Yes
+CUST00356,Uasin Gishu,Eldoret Town,Everyday,No
+CUST00357,Mombasa,Mombasa CBD,Value Seeker,No
+CUST00358,Mombasa,Nyali,Everyday,No
+CUST00359,Nairobi,Eastleigh,Everyday,Yes
+CUST00360,Nairobi,Eastleigh,Premium,No
+CUST00361,Nyeri,Nyeri Town,Everyday,Yes
+CUST00362,Kisumu,Mamboleo,Loyal,Yes
+CUST00363,Uasin Gishu,Eldoret Town,Everyday,No
+CUST00364,Machakos,Athi River,Loyal,No
+CUST00365,Uasin Gishu,Eldoret Town,Value Seeker,No
+CUST00366,Uasin Gishu,Eldoret Town,Loyal,No
+CUST00367,Kiambu,Ruiru,Value Seeker,Yes
+CUST00368,Kisumu,Mamboleo,Everyday,No
+CUST00369,Kisumu,Mamboleo,Everyday,No
+CUST00370,Mombasa,Mombasa CBD,Everyday,No
+CUST00371,Nairobi,Eastleigh,Value Seeker,No
+CUST00372,Kisumu,Kisumu CBD,Everyday,No
+CUST00373,Uasin Gishu,Eldoret Town,Premium,Yes
+CUST00374,Nyeri,Nyeri Town,Everyday,Yes
+CUST00375,Uasin Gishu,Eldoret Town,Everyday,Yes
+CUST00376,Mombasa,Mombasa CBD,Everyday,No
+CUST00377,Uasin Gishu,Eldoret Town,Loyal,Yes
+CUST00378,Uasin Gishu,Eldoret Town,Everyday,No
+CUST00379,Nakuru,Nakuru Town,Everyday,Yes
+CUST00380,Nyeri,Nyeri Town,Loyal,Yes
+CUST00381,Kisumu,Mamboleo,Loyal,Yes
+CUST00382,Kisumu,Mamboleo,Everyday,Yes
+CUST00383,Kiambu,Ruiru,Everyday,No
+CUST00384,Kiambu,Kiambu Town,Premium,No
+CUST00385,Uasin Gishu,Eldoret Town,Value Seeker,No
+CUST00386,Kisumu,Kisumu CBD,Loyal,Yes
+CUST00387,Uasin Gishu,Eldoret Town,Everyday,Yes
+CUST00388,Mombasa,Nyali,Loyal,Yes
+CUST00389,Uasin Gishu,Eldoret Town,Value Seeker,Yes
+CUST00390,Kiambu,Thika,Everyday,No
+CUST00391,Machakos,Athi River,Loyal,Yes
+CUST00392,Mombasa,Likoni,Value Seeker,No
+CUST00393,Nyeri,Nyeri Town,Everyday,Yes
+CUST00394,Mombasa,Likoni,Value Seeker,Yes
+CUST00395,Kiambu,Kiambu Town,Everyday,Yes
+CUST00396,Mombasa,Likoni,Premium,Yes
+CUST00397,Uasin Gishu,Eldoret Town,Loyal,No
+CUST00398,Nakuru,Naivasha,Everyday,No
+CUST00399,Kiambu,Kiambu Town,Value Seeker,Yes
+CUST00400,Mombasa,Mombasa CBD,Value Seeker,No
+CUST00401,Nairobi,Westlands,Everyday,No
+CUST00402,Nakuru,Naivasha,Value Seeker,Yes
+CUST00403,Nyeri,Nyeri Town,Value Seeker,No
+CUST00404,Nyeri,Nyeri Town,Loyal,No
+CUST00405,Kisumu,Mamboleo,Everyday,Yes
+CUST00406,Mombasa,Likoni,Everyday,No
+CUST00407,Nakuru,Naivasha,Value Seeker,No
+CUST00408,Uasin Gishu,Eldoret Town,Premium,Yes
+CUST00409,Uasin Gishu,Eldoret Town,Everyday,No
+CUST00410,Kiambu,Ruiru,Everyday,Yes
+CUST00411,Kiambu,Thika,Everyday,No
+CUST00412,Machakos,Machakos Town,Premium,Yes
+CUST00413,Uasin Gishu,Eldoret Town,Everyday,Yes
+CUST00414,Nyeri,Nyeri Town,Value Seeker,No
+CUST00415,Nyeri,Nyeri Town,Everyday,No
+CUST00416,Nyeri,Nyeri Town,Everyday,No
+CUST00417,Nairobi,Westlands,Everyday,No
+CUST00418,Kisumu,Kisumu CBD,Loyal,No
+CUST00419,Mombasa,Likoni,Loyal,No
+CUST00420,Uasin Gishu,Eldoret Town,Everyday,Yes
+CUST00421,Uasin Gishu,Eldoret Town,Everyday,No
+CUST00422,Kisumu,Kisumu CBD,Everyday,Yes
+CUST00423,Machakos,Athi River,Loyal,No
+CUST00424,Uasin Gishu,Eldoret Town,Everyday,No
+CUST00425,Nairobi,Westlands,Everyday,No
+CUST00426,Nyeri,Nyeri Town,Everyday,Yes
+CUST00427,Uasin Gishu,Eldoret Town,Everyday,No
+CUST00428,Uasin Gishu,Eldoret Town,Loyal,No
+CUST00429,Nyeri,Nyeri Town,Everyday,Yes
+CUST00430,Machakos,Athi River,Loyal,Yes
+CUST00431,Nyeri,Nyeri Town,Premium,Yes
+CUST00432,Nairobi,Embakasi,Everyday,No
+CUST00433,Mombasa,Mombasa CBD,Everyday,Yes
+CUST00434,Nakuru,Nakuru Town,Everyday,No
+CUST00435,Mombasa,Likoni,Value Seeker,No
+CUST00436,Nyeri,Nyeri Town,Loyal,Yes
+CUST00437,Uasin Gishu,Eldoret Town,Value Seeker,No
+CUST00438,Mombasa,Likoni,Loyal,No
+CUST00439,Uasin Gishu,Eldoret Town,Value Seeker,Yes
+CUST00440,Nakuru,Naivasha,Value Seeker,Yes
+CUST00441,Kisumu,Mamboleo,Loyal,No
+CUST00442,Uasin Gishu,Eldoret Town,Everyday,No
+CUST00443,Kisumu,Kisumu CBD,Value Seeker,No
+CUST00444,Machakos,Athi River,Premium,Yes
+CUST00445,Kisumu,Kisumu CBD,Everyday,Yes
+CUST00446,Uasin Gishu,Eldoret Town,Value Seeker,No
+CUST00447,Nakuru,Nakuru Town,Loyal,No
+CUST00448,Kisumu,Kisumu CBD,Everyday,Yes
+CUST00449,Nakuru,Nakuru Town,Value Seeker,Yes
+CUST00450,Nakuru,Nakuru Town,Everyday,No
+CUST00451,Nyeri,Nyeri Town,Value Seeker,Yes
+CUST00452,Nairobi,Kilimani,Everyday,No
+CUST00453,Nyeri,Nyeri Town,Loyal,No
+CUST00454,Uasin Gishu,Eldoret Town,Value Seeker,Yes
+CUST00455,Nakuru,Nakuru Town,Loyal,Yes
+CUST00456,Machakos,Machakos Town,Premium,Yes
+CUST00457,Machakos,Athi River,Everyday,No
+CUST00458,Nairobi,Westlands,Everyday,Yes
+CUST00459,Uasin Gishu,Eldoret Town,Value Seeker,No
+CUST00460,Mombasa,Mombasa CBD,Value Seeker,Yes
+CUST00461,Kiambu,Ruiru,Everyday,No
+CUST00462,Kisumu,Kisumu CBD,Everyday,No
+CUST00463,Kisumu,Kisumu CBD,Everyday,No
+CUST00464,Machakos,Athi River,Everyday,Yes
+CUST00465,Mombasa,Nyali,Value Seeker,Yes
+CUST00466,Nairobi,Eastleigh,Everyday,No
+CUST00467,Kisumu,Mamboleo,Everyday,Yes
+CUST00468,Kisumu,Mamboleo,Value Seeker,Yes
+CUST00469,Kiambu,Ruiru,Everyday,No
+CUST00470,Kisumu,Kisumu CBD,Value Seeker,No
+CUST00471,Uasin Gishu,Eldoret Town,Everyday,Yes
+CUST00472,Nyeri,Nyeri Town,Value Seeker,No
+CUST00473,Machakos,Athi River,Loyal,Yes
+CUST00474,Nakuru,Nakuru Town,Value Seeker,No
+CUST00475,Kiambu,Kiambu Town,Everyday,Yes
+CUST00476,Mombasa,Nyali,Everyday,No
+CUST00477,Kiambu,Kiambu Town,Everyday,No
+CUST00478,Kiambu,Kiambu Town,Everyday,Yes
+CUST00479,Nyeri,Nyeri Town,Value Seeker,No
+CUST00480,Nairobi,Embakasi,Value Seeker,No
+CUST00481,Nairobi,Embakasi,Everyday,Yes
+CUST00482,Nakuru,Nakuru Town,Everyday,No
+CUST00483,Kiambu,Kiambu Town,Premium,Yes
+CUST00484,Nyeri,Nyeri Town,Everyday,Yes
+CUST00485,Mombasa,Mombasa CBD,Premium,No
+CUST00486,Uasin Gishu,Eldoret Town,Everyday,No
+CUST00487,Machakos,Machakos Town,Value Seeker,Yes
+CUST00488,Uasin Gishu,Eldoret Town,Everyday,No
+CUST00489,Mombasa,Mombasa CBD,Premium,Yes
+CUST00490,Nairobi,Eastleigh,Value Seeker,No
+CUST00491,Machakos,Machakos Town,Everyday,No
+CUST00492,Mombasa,Likoni,Everyday,Yes
+CUST00493,Nairobi,Embakasi,Value Seeker,Yes
+CUST00494,Nakuru,Nakuru Town,Everyday,Yes
+CUST00495,Nyeri,Nyeri Town,Everyday,Yes
+CUST00496,Machakos,Athi River,Everyday,Yes
+CUST00497,Nairobi,Kilimani,Value Seeker,No
+CUST00498,Nakuru,Naivasha,Value Seeker,No
+CUST00499,Nakuru,Naivasha,Loyal,Yes
+CUST00500,Machakos,Athi River,Everyday,Yes
+CUST00501,Machakos,Athi River,Everyday,No
+CUST00502,Machakos,Athi River,Value Seeker,No
+CUST00503,Mombasa,Likoni,Everyday,No
+CUST00504,Nakuru,Nakuru Town,Everyday,Yes
+CUST00505,Nyeri,Nyeri Town,Value Seeker,No
+CUST00506,Mombasa,Likoni,Everyday,Yes
+CUST00507,Uasin Gishu,Eldoret Town,Premium,No
+CUST00508,Kiambu,Kiambu Town,Loyal,Yes
+CUST00509,Nairobi,Eastleigh,Everyday,Yes
+CUST00510,Kiambu,Thika,Loyal,Yes
+CUST00511,Nyeri,Nyeri Town,Loyal,No
+CUST00512,Kisumu,Kisumu CBD,Everyday,Yes
+CUST00513,Kiambu,Kiambu Town,Premium,No
+CUST00514,Nakuru,Nakuru Town,Everyday,Yes
+CUST00515,Uasin Gishu,Eldoret Town,Everyday,No
+CUST00516,Kisumu,Mamboleo,Everyday,No
+CUST00517,Nyeri,Nyeri Town,Loyal,No
+CUST00518,Uasin Gishu,Eldoret Town,Everyday,No
+CUST00519,Nairobi,Kilimani,Loyal,Yes
+CUST00520,Kisumu,Mamboleo,Everyday,Yes
+CUST00521,Uasin Gishu,Eldoret Town,Everyday,Yes
+CUST00522,Nyeri,Nyeri Town,Everyday,No
+CUST00523,Nyeri,Nyeri Town,Everyday,No
+CUST00524,Mombasa,Nyali,Loyal,No
+CUST00525,Mombasa,Mombasa CBD,Premium,Yes
+CUST00526,Nairobi,Westlands,Premium,Yes
+CUST00527,Nairobi,Embakasi,Everyday,Yes
+CUST00528,Kiambu,Kiambu Town,Everyday,Yes
+CUST00529,Nyeri,Nyeri Town,Everyday,No
+CUST00530,Nyeri,Nyeri Town,Everyday,No
+CUST00531,Nairobi,Westlands,Value Seeker,No
+CUST00532,Kisumu,Kisumu CBD,Value Seeker,No
+CUST00533,Mombasa,Nyali,Loyal,Yes
+CUST00534,Nakuru,Nakuru Town,Value Seeker,No
+CUST00535,Uasin Gishu,Eldoret Town,Loyal,Yes
+CUST00536,Uasin Gishu,Eldoret Town,Value Seeker,Yes
+CUST00537,Nakuru,Naivasha,Value Seeker,Yes
+CUST00538,Nairobi,Westlands,Everyday,No
+CUST00539,Nyeri,Nyeri Town,Value Seeker,Yes
+CUST00540,Kiambu,Ruiru,Loyal,No
+CUST00541,Kiambu,Kiambu Town,Loyal,Yes
+CUST00542,Nakuru,Naivasha,Everyday,Yes
+CUST00543,Kisumu,Kisumu CBD,Everyday,No
+CUST00544,Nairobi,Kilimani,Value Seeker,No
+CUST00545,Kiambu,Ruiru,Everyday,Yes
+CUST00546,Machakos,Athi River,Everyday,Yes
+CUST00547,Kiambu,Kiambu Town,Loyal,No
+CUST00548,Nairobi,Westlands,Everyday,Yes
+CUST00549,Uasin Gishu,Eldoret Town,Premium,No
+CUST00550,Nairobi,Eastleigh,Loyal,No
+CUST00551,Nyeri,Nyeri Town,Everyday,No
+CUST00552,Machakos,Machakos Town,Value Seeker,No
+CUST00553,Kiambu,Kiambu Town,Everyday,Yes
+CUST00554,Kiambu,Thika,Everyday,No
+CUST00555,Mombasa,Mombasa CBD,Everyday,No
+CUST00556,Kiambu,Thika,Everyday,No
+CUST00557,Nyeri,Nyeri Town,Loyal,Yes
+CUST00558,Mombasa,Nyali,Everyday,No
+CUST00559,Machakos,Machakos Town,Everyday,No
+CUST00560,Kiambu,Kiambu Town,Value Seeker,No
+CUST00561,Machakos,Machakos Town,Everyday,No
+CUST00562,Kiambu,Kiambu Town,Loyal,Yes
+CUST00563,Mombasa,Mombasa CBD,Everyday,Yes
+CUST00564,Kisumu,Mamboleo,Everyday,Yes
+CUST00565,Kiambu,Thika,Everyday,No
+CUST00566,Kisumu,Mamboleo,Loyal,No
+CUST00567,Kisumu,Kisumu CBD,Loyal,No
+CUST00568,Nakuru,Naivasha,Everyday,No
+CUST00569,Nairobi,Embakasi,Everyday,No
+CUST00570,Uasin Gishu,Eldoret Town,Everyday,Yes
+CUST00571,Kisumu,Mamboleo,Value Seeker,Yes
+CUST00572,Nyeri,Nyeri Town,Everyday,No
+CUST00573,Uasin Gishu,Eldoret Town,Loyal,No
+CUST00574,Nakuru,Naivasha,Everyday,No
+CUST00575,Uasin Gishu,Eldoret Town,Premium,Yes
+CUST00576,Mombasa,Mombasa CBD,Loyal,Yes
+CUST00577,Nyeri,Nyeri Town,Everyday,No
+CUST00578,Kiambu,Ruiru,Value Seeker,Yes
+CUST00579,Kisumu,Kisumu CBD,Everyday,Yes
+CUST00580,Machakos,Athi River,Everyday,No
+CUST00581,Machakos,Athi River,Value Seeker,No
+CUST00582,Kiambu,Thika,Loyal,No
+CUST00583,Mombasa,Mombasa CBD,Value Seeker,No
+CUST00584,Uasin Gishu,Eldoret Town,Everyday,Yes
+CUST00585,Kisumu,Kisumu CBD,Value Seeker,Yes
+CUST00586,Nyeri,Nyeri Town,Everyday,Yes
+CUST00587,Uasin Gishu,Eldoret Town,Value Seeker,No
+CUST00588,Machakos,Machakos Town,Everyday,Yes
+CUST00589,Uasin Gishu,Eldoret Town,Everyday,Yes
+CUST00590,Nyeri,Nyeri Town,Value Seeker,No
+CUST00591,Nyeri,Nyeri Town,Everyday,Yes
+CUST00592,Kiambu,Thika,Loyal,Yes
+CUST00593,Mombasa,Mombasa CBD,Everyday,Yes
+CUST00594,Mombasa,Likoni,Value Seeker,No
+CUST00595,Nakuru,Naivasha,Value Seeker,Yes
+CUST00596,Machakos,Athi River,Everyday,Yes
+CUST00597,Nyeri,Nyeri Town,Everyday,Yes
+CUST00598,Nakuru,Naivasha,Loyal,Yes
+CUST00599,Kiambu,Kiambu Town,Everyday,No
+CUST00600,Nakuru,Naivasha,Everyday,No
+CUST00601,Uasin Gishu,Eldoret Town,Value Seeker,Yes
+CUST00602,Uasin Gishu,Eldoret Town,Loyal,Yes
+CUST00603,Kisumu,Kisumu CBD,Value Seeker,No
+CUST00604,Kiambu,Thika,Everyday,Yes
+CUST00605,Uasin Gishu,Eldoret Town,Value Seeker,No
+CUST00606,Mombasa,Mombasa CBD,Everyday,Yes
+CUST00607,Nyeri,Nyeri Town,Value Seeker,No
+CUST00608,Kisumu,Kisumu CBD,Everyday,No
+CUST00609,Nairobi,Eastleigh,Premium,No
+CUST00610,Mombasa,Nyali,Loyal,No
+CUST00611,Machakos,Athi River,Everyday,No
+CUST00612,Nyeri,Nyeri Town,Everyday,Yes
+CUST00613,Nakuru,Naivasha,Everyday,Yes
+CUST00614,Kisumu,Kisumu CBD,Loyal,No
+CUST00615,Kiambu,Kiambu Town,Everyday,No
+CUST00616,Nairobi,Embakasi,Value Seeker,No
+CUST00617,Kiambu,Kiambu Town,Loyal,Yes
+CUST00618,Kisumu,Kisumu CBD,Everyday,No
+CUST00619,Kiambu,Ruiru,Loyal,Yes
+CUST00620,Nakuru,Nakuru Town,Loyal,No
+CUST00621,Machakos,Machakos Town,Value Seeker,Yes
+CUST00622,Nakuru,Nakuru Town,Value Seeker,No
+CUST00623,Mombasa,Likoni,Premium,No
+CUST00624,Kisumu,Mamboleo,Premium,Yes
+CUST00625,Mombasa,Likoni,Loyal,No
+CUST00626,Mombasa,Mombasa CBD,Loyal,Yes
+CUST00627,Mombasa,Mombasa CBD,Everyday,Yes
+CUST00628,Machakos,Athi River,Everyday,No
+CUST00629,Machakos,Athi River,Value Seeker,Yes
+CUST00630,Machakos,Athi River,Value Seeker,No
+CUST00631,Nyeri,Nyeri Town,Everyday,Yes
+CUST00632,Kiambu,Kiambu Town,Premium,No
+CUST00633,Kiambu,Kiambu Town,Everyday,No
+CUST00634,Nakuru,Naivasha,Everyday,No
+CUST00635,Uasin Gishu,Eldoret Town,Value Seeker,No
+CUST00636,Uasin Gishu,Eldoret Town,Everyday,No
+CUST00637,Nairobi,Westlands,Premium,Yes
+CUST00638,Nyeri,Nyeri Town,Everyday,No
+CUST00639,Nakuru,Nakuru Town,Loyal,No
+CUST00640,Mombasa,Likoni,Everyday,No
+CUST00641,Kisumu,Kisumu CBD,Everyday,Yes
+CUST00642,Nairobi,Embakasi,Value Seeker,Yes
+CUST00643,Machakos,Machakos Town,Loyal,Yes
+CUST00644,Nakuru,Naivasha,Everyday,Yes
+CUST00645,Nyeri,Nyeri Town,Everyday,No
+CUST00646,Kiambu,Ruiru,Value Seeker,No
+CUST00647,Kiambu,Thika,Everyday,Yes
+CUST00648,Kiambu,Ruiru,Everyday,No
+CUST00649,Mombasa,Likoni,Loyal,Yes
+CUST00650,Mombasa,Nyali,Value Seeker,Yes
+CUST00651,Mombasa,Likoni,Everyday,Yes
+CUST00652,Mombasa,Likoni,Value Seeker,No
+CUST00653,Nakuru,Nakuru Town,Loyal,Yes
+CUST00654,Kiambu,Kiambu Town,Loyal,No
+CUST00655,Machakos,Athi River,Loyal,Yes
+CUST00656,Kisumu,Kisumu CBD,Everyday,No
+CUST00657,Nairobi,Eastleigh,Everyday,Yes
+CUST00658,Machakos,Athi River,Value Seeker,Yes
+CUST00659,Nyeri,Nyeri Town,Everyday,No
+CUST00660,Kiambu,Kiambu Town,Loyal,Yes
+CUST00661,Uasin Gishu,Eldoret Town,Everyday,No
+CUST00662,Uasin Gishu,Eldoret Town,Loyal,Yes
+CUST00663,Nairobi,Westlands,Everyday,Yes
+CUST00664,Nairobi,Westlands,Premium,No
+CUST00665,Kisumu,Mamboleo,Everyday,No
+CUST00666,Kiambu,Kiambu Town,Value Seeker,Yes
+CUST00667,Kisumu,Kisumu CBD,Everyday,Yes
+CUST00668,Mombasa,Mombasa CBD,Everyday,Yes
+CUST00669,Kisumu,Mamboleo,Loyal,Yes
+CUST00670,Nairobi,Kilimani,Everyday,No
+CUST00671,Kiambu,Ruiru,Value Seeker,Yes
+CUST00672,Kisumu,Kisumu CBD,Everyday,Yes
+CUST00673,Nairobi,Kilimani,Value Seeker,No
+CUST00674,Kisumu,Kisumu CBD,Everyday,No
+CUST00675,Kiambu,Thika,Everyday,No
+CUST00676,Kisumu,Kisumu CBD,Everyday,Yes
+CUST00677,Nyeri,Nyeri Town,Value Seeker,Yes
+CUST00678,Nyeri,Nyeri Town,Everyday,No
+CUST00679,Kiambu,Kiambu Town,Value Seeker,Yes
+CUST00680,Nakuru,Nakuru Town,Everyday,Yes
+CUST00681,Nakuru,Nakuru Town,Value Seeker,No
+CUST00682,Mombasa,Nyali,Premium,Yes
+CUST00683,Machakos,Machakos Town,Everyday,No
+CUST00684,Uasin Gishu,Eldoret Town,Loyal,No
+CUST00685,Kiambu,Kiambu Town,Value Seeker,Yes
+CUST00686,Mombasa,Nyali,Loyal,Yes
+CUST00687,Machakos,Machakos Town,Loyal,No
+CUST00688,Kisumu,Mamboleo,Everyday,No
+CUST00689,Nairobi,Eastleigh,Everyday,No
+CUST00690,Nakuru,Naivasha,Everyday,No
+CUST00691,Nakuru,Nakuru Town,Everyday,No
+CUST00692,Nairobi,Kilimani,Value Seeker,Yes
+CUST00693,Uasin Gishu,Eldoret Town,Loyal,No
+CUST00694,Kisumu,Kisumu CBD,Everyday,Yes
+CUST00695,Machakos,Athi River,Premium,Yes
+CUST00696,Kisumu,Kisumu CBD,Everyday,Yes
+CUST00697,Machakos,Athi River,Value Seeker,Yes
+CUST00698,Kiambu,Kiambu Town,Everyday,No
+CUST00699,Kiambu,Kiambu Town,Value Seeker,No
+CUST00700,Mombasa,Nyali,Everyday,No
+CUST00701,Machakos,Athi River,Everyday,No
+CUST00702,Nakuru,Nakuru Town,Premium,Yes
+CUST00703,Kiambu,Thika,Everyday,No
+CUST00704,Nyeri,Nyeri Town,Everyday,No
+CUST00705,Nakuru,Naivasha,Everyday,No
+CUST00706,Kiambu,Thika,Everyday,No
+CUST00707,Nairobi,Kilimani,Loyal,No
+CUST00708,Mombasa,Nyali,Loyal,No
+CUST00709,Machakos,Machakos Town,Value Seeker,No
+CUST00710,Mombasa,Nyali,Premium,No
+CUST00711,Nakuru,Nakuru Town,Value Seeker,Yes
+CUST00712,Kiambu,Thika,Everyday,Yes
+CUST00713,Mombasa,Nyali,Loyal,No
+CUST00714,Kiambu,Kiambu Town,Value Seeker,Yes
+CUST00715,Nairobi,Westlands,Everyday,No
+CUST00716,Mombasa,Nyali,Loyal,No
+CUST00717,Kiambu,Thika,Premium,Yes
+CUST00718,Mombasa,Mombasa CBD,Everyday,No
+CUST00719,Nyeri,Nyeri Town,Everyday,No
+CUST00720,Mombasa,Likoni,Everyday,Yes
+CUST00721,Kisumu,Mamboleo,Everyday,Yes
+CUST00722,Nairobi,Kilimani,Value Seeker,No
+CUST00723,Machakos,Athi River,Everyday,No
+CUST00724,Machakos,Machakos Town,Everyday,Yes
+CUST00725,Nairobi,Embakasi,Loyal,No
+CUST00726,Nyeri,Nyeri Town,Everyday,No
+CUST00727,Machakos,Athi River,Everyday,No
+CUST00728,Nakuru,Nakuru Town,Loyal,No
+CUST00729,Nairobi,Embakasi,Value Seeker,Yes
+CUST00730,Mombasa,Nyali,Everyday,Yes
+CUST00731,Kisumu,Kisumu CBD,Loyal,Yes
+CUST00732,Machakos,Athi River,Premium,Yes
+CUST00733,Mombasa,Nyali,Value Seeker,No
+CUST00734,Nairobi,Eastleigh,Premium,Yes
+CUST00735,Nakuru,Naivasha,Value Seeker,Yes
+CUST00736,Nyeri,Nyeri Town,Everyday,Yes
+CUST00737,Nakuru,Nakuru Town,Value Seeker,Yes
+CUST00738,Uasin Gishu,Eldoret Town,Loyal,No
+CUST00739,Mombasa,Likoni,Everyday,Yes
+CUST00740,Mombasa,Nyali,Loyal,No
+CUST00741,Kiambu,Ruiru,Loyal,No
+CUST00742,Kiambu,Ruiru,Everyday,Yes
+CUST00743,Mombasa,Mombasa CBD,Premium,No
+CUST00744,Uasin Gishu,Eldoret Town,Loyal,No
+CUST00745,Nakuru,Nakuru Town,Everyday,No
+CUST00746,Mombasa,Nyali,Loyal,No
+CUST00747,Nairobi,Kilimani,Value Seeker,Yes
+CUST00748,Kiambu,Ruiru,Everyday,Yes
+CUST00749,Nakuru,Naivasha,Premium,Yes
+CUST00750,Kiambu,Kiambu Town,Value Seeker,No
+CUST00751,Nyeri,Nyeri Town,Everyday,Yes
+CUST00752,Kiambu,Ruiru,Everyday,Yes
+CUST00753,Nairobi,Westlands,Everyday,No
+CUST00754,Mombasa,Likoni,Value Seeker,No
+CUST00755,Uasin Gishu,Eldoret Town,Everyday,No
+CUST00756,Nakuru,Nakuru Town,Value Seeker,Yes
+CUST00757,Kisumu,Kisumu CBD,Everyday,Yes
+CUST00758,Kiambu,Ruiru,Everyday,No
+CUST00759,Mombasa,Mombasa CBD,Everyday,Yes
+CUST00760,Uasin Gishu,Eldoret Town,Loyal,No
+CUST00761,Mombasa,Mombasa CBD,Loyal,Yes
+CUST00762,Nairobi,Westlands,Everyday,Yes
+CUST00763,Machakos,Athi River,Value Seeker,No
+CUST00764,Nakuru,Nakuru Town,Everyday,No
+CUST00765,Mombasa,Nyali,Everyday,No
+CUST00766,Kiambu,Ruiru,Loyal,No
+CUST00767,Nakuru,Nakuru Town,Everyday,Yes
+CUST00768,Kisumu,Kisumu CBD,Value Seeker,Yes
+CUST00769,Kisumu,Mamboleo,Value Seeker,No
+CUST00770,Kiambu,Kiambu Town,Value Seeker,Yes
+CUST00771,Uasin Gishu,Eldoret Town,Everyday,No
+CUST00772,Nairobi,Eastleigh,Everyday,No
+CUST00773,Nakuru,Naivasha,Value Seeker,Yes
+CUST00774,Kiambu,Thika,Value Seeker,No
+CUST00775,Nakuru,Nakuru Town,Loyal,No
+CUST00776,Nyeri,Nyeri Town,Value Seeker,Yes
+CUST00777,Machakos,Machakos Town,Value Seeker,Yes
+CUST00778,Kiambu,Ruiru,Everyday,Yes
+CUST00779,Nakuru,Nakuru Town,Everyday,No
+CUST00780,Kiambu,Kiambu Town,Everyday,Yes
+CUST00781,Kisumu,Mamboleo,Loyal,Yes
+CUST00782,Kiambu,Ruiru,Value Seeker,No
+CUST00783,Kisumu,Mamboleo,Loyal,Yes
+CUST00784,Machakos,Machakos Town,Everyday,Yes
+CUST00785,Kiambu,Thika,Value Seeker,Yes
+CUST00786,Kisumu,Mamboleo,Loyal,No
+CUST00787,Machakos,Athi River,Value Seeker,No
+CUST00788,Nairobi,Kilimani,Everyday,Yes
+CUST00789,Machakos,Machakos Town,Everyday,No
+CUST00790,Nakuru,Nakuru Town,Loyal,No
+CUST00791,Uasin Gishu,Eldoret Town,Everyday,No
+CUST00792,Kisumu,Mamboleo,Loyal,Yes
+CUST00793,Nakuru,Nakuru Town,Everyday,No
+CUST00794,Uasin Gishu,Eldoret Town,Loyal,Yes
+CUST00795,Nakuru,Naivasha,Everyday,No
+CUST00796,Nyeri,Nyeri Town,Loyal,Yes
+CUST00797,Kiambu,Ruiru,Loyal,No
+CUST00798,Mombasa,Mombasa CBD,Loyal,Yes
+CUST00799,Mombasa,Nyali,Loyal,Yes
+CUST00800,Nairobi,Kilimani,Everyday,Yes
+CUST00801,Uasin Gishu,Eldoret Town,Everyday,No
+CUST00802,Machakos,Machakos Town,Value Seeker,Yes
+CUST00803,Uasin Gishu,Eldoret Town,Value Seeker,Yes
+CUST00804,Nyeri,Nyeri Town,Everyday,No
+CUST00805,Kiambu,Ruiru,Everyday,Yes
+CUST00806,Mombasa,Mombasa CBD,Loyal,Yes
+CUST00807,Nakuru,Nakuru Town,Value Seeker,No
+CUST00808,Machakos,Machakos Town,Loyal,Yes
+CUST00809,Nyeri,Nyeri Town,Value Seeker,Yes
+CUST00810,Nakuru,Naivasha,Value Seeker,No
+CUST00811,Kisumu,Mamboleo,Loyal,No
+CUST00812,Nyeri,Nyeri Town,Everyday,No
+CUST00813,Machakos,Machakos Town,Everyday,No
+CUST00814,Kisumu,Mamboleo,Value Seeker,No
+CUST00815,Kiambu,Ruiru,Premium,No
+CUST00816,Kisumu,Mamboleo,Value Seeker,No
+CUST00817,Nakuru,Nakuru Town,Value Seeker,Yes
+CUST00818,Nairobi,Embakasi,Value Seeker,Yes
+CUST00819,Nairobi,Embakasi,Premium,No
+CUST00820,Machakos,Athi River,Everyday,Yes
+CUST00821,Nakuru,Naivasha,Loyal,Yes
+CUST00822,Nyeri,Nyeri Town,Value Seeker,Yes
+CUST00823,Mombasa,Likoni,Everyday,Yes
+CUST00824,Kisumu,Kisumu CBD,Premium,No
+CUST00825,Kiambu,Thika,Everyday,No
+CUST00826,Machakos,Athi River,Everyday,No
+CUST00827,Nyeri,Nyeri Town,Value Seeker,Yes
+CUST00828,Nyeri,Nyeri Town,Value Seeker,No
+CUST00829,Kisumu,Mamboleo,Everyday,Yes
+CUST00830,Mombasa,Nyali,Everyday,No
+CUST00831,Mombasa,Likoni,Loyal,Yes
+CUST00832,Kiambu,Ruiru,Everyday,Yes
+CUST00833,Uasin Gishu,Eldoret Town,Everyday,No
+CUST00834,Nakuru,Nakuru Town,Value Seeker,Yes
+CUST00835,Nyeri,Nyeri Town,Everyday,No
+CUST00836,Machakos,Athi River,Everyday,No
+CUST00837,Machakos,Machakos Town,Everyday,Yes
+CUST00838,Uasin Gishu,Eldoret Town,Loyal,Yes
+CUST00839,Nairobi,Westlands,Value Seeker,Yes
+CUST00840,Nakuru,Naivasha,Everyday,Yes
+CUST00841,Machakos,Athi River,Everyday,Yes
+CUST00842,Kisumu,Mamboleo,Value Seeker,No
+CUST00843,Machakos,Machakos Town,Everyday,No
+CUST00844,Uasin Gishu,Eldoret Town,Everyday,No
+CUST00845,Nairobi,Kilimani,Everyday,Yes
+CUST00846,Nakuru,Nakuru Town,Value Seeker,Yes
+CUST00847,Kiambu,Ruiru,Loyal,Yes
+CUST00848,Machakos,Athi River,Loyal,Yes
+CUST00849,Nairobi,Westlands,Value Seeker,Yes
+CUST00850,Nairobi,Westlands,Everyday,No
+CUST00851,Kiambu,Kiambu Town,Everyday,Yes
+CUST00852,Nakuru,Nakuru Town,Everyday,Yes
+CUST00853,Kisumu,Kisumu CBD,Everyday,Yes
+CUST00854,Kiambu,Ruiru,Everyday,Yes
+CUST00855,Nyeri,Nyeri Town,Value Seeker,No
+CUST00856,Nakuru,Naivasha,Loyal,No
+CUST00857,Mombasa,Nyali,Value Seeker,Yes
+CUST00858,Nyeri,Nyeri Town,Everyday,Yes
+CUST00859,Kiambu,Thika,Loyal,No
+CUST00860,Mombasa,Nyali,Loyal,Yes
+CUST00861,Kiambu,Ruiru,Value Seeker,No
+CUST00862,Kisumu,Mamboleo,Value Seeker,Yes
+CUST00863,Mombasa,Nyali,Loyal,No
+CUST00864,Uasin Gishu,Eldoret Town,Loyal,Yes
+CUST00865,Nairobi,Westlands,Loyal,Yes
+CUST00866,Uasin Gishu,Eldoret Town,Loyal,No
+CUST00867,Kiambu,Ruiru,Loyal,Yes
+CUST00868,Kiambu,Ruiru,Everyday,No
+CUST00869,Kisumu,Mamboleo,Value Seeker,No
+CUST00870,Machakos,Machakos Town,Everyday,Yes
+CUST00871,Mombasa,Nyali,Everyday,No
+CUST00872,Nyeri,Nyeri Town,Value Seeker,No
+CUST00873,Nairobi,Kilimani,Value Seeker,No
+CUST00874,Kiambu,Ruiru,Everyday,Yes
+CUST00875,Kisumu,Mamboleo,Everyday,Yes
+CUST00876,Uasin Gishu,Eldoret Town,Everyday,Yes
+CUST00877,Nyeri,Nyeri Town,Value Seeker,No
+CUST00878,Mombasa,Mombasa CBD,Loyal,Yes
+CUST00879,Nairobi,Kilimani,Value Seeker,No
+CUST00880,Nyeri,Nyeri Town,Everyday,No
+CUST00881,Uasin Gishu,Eldoret Town,Everyday,No
+CUST00882,Nairobi,Kilimani,Value Seeker,No
+CUST00883,Machakos,Machakos Town,Everyday,No
+CUST00884,Nyeri,Nyeri Town,Loyal,No
+CUST00885,Uasin Gishu,Eldoret Town,Premium,Yes
+CUST00886,Kiambu,Ruiru,Everyday,Yes
+CUST00887,Kiambu,Kiambu Town,Premium,No
+CUST00888,Nakuru,Naivasha,Premium,No
+CUST00889,Nairobi,Kilimani,Loyal,No
+CUST00890,Nyeri,Nyeri Town,Loyal,Yes
+CUST00891,Kiambu,Kiambu Town,Everyday,No
+CUST00892,Uasin Gishu,Eldoret Town,Value Seeker,No
+CUST00893,Kiambu,Thika,Loyal,No
+CUST00894,Mombasa,Mombasa CBD,Loyal,No
+CUST00895,Kiambu,Ruiru,Value Seeker,Yes
+CUST00896,Kiambu,Ruiru,Everyday,Yes
+CUST00897,Uasin Gishu,Eldoret Town,Loyal,Yes
+CUST00898,Kiambu,Ruiru,Value Seeker,Yes
+CUST00899,Nyeri,Nyeri Town,Value Seeker,Yes
+CUST00900,Machakos,Athi River,Premium,Yes
+CUST00901,Mombasa,Mombasa CBD,Loyal,Yes
+CUST00902,Machakos,Athi River,Value Seeker,No
+CUST00903,Machakos,Machakos Town,Everyday,No
+CUST00904,Kisumu,Mamboleo,Loyal,Yes
+CUST00905,Machakos,Athi River,Loyal,No
+CUST00906,Nakuru,Nakuru Town,Everyday,No
+CUST00907,Uasin Gishu,Eldoret Town,Premium,Yes
+CUST00908,Uasin Gishu,Eldoret Town,Loyal,No
+CUST00909,Machakos,Athi River,Loyal,No
+CUST00910,Nairobi,Westlands,Everyday,Yes
+CUST00911,Nairobi,Westlands,Everyday,Yes
+CUST00912,Kisumu,Mamboleo,Everyday,Yes
+CUST00913,Kisumu,Kisumu CBD,Loyal,Yes
+CUST00914,Uasin Gishu,Eldoret Town,Everyday,Yes
+CUST00915,Machakos,Machakos Town,Value Seeker,No
+CUST00916,Nairobi,Embakasi,Everyday,No
+CUST00917,Nairobi,Westlands,Loyal,Yes
+CUST00918,Nyeri,Nyeri Town,Loyal,No
+CUST00919,Nakuru,Nakuru Town,Everyday,Yes
+CUST00920,Kiambu,Thika,Premium,Yes
+CUST00921,Machakos,Machakos Town,Everyday,No
+CUST00922,Mombasa,Nyali,Value Seeker,No
+CUST00923,Nairobi,Eastleigh,Value Seeker,Yes
+CUST00924,Nairobi,Kilimani,Premium,Yes
+CUST00925,Kisumu,Mamboleo,Loyal,No
+CUST00926,Kiambu,Kiambu Town,Everyday,Yes
+CUST00927,Mombasa,Mombasa CBD,Everyday,Yes
+CUST00928,Machakos,Athi River,Everyday,Yes
+CUST00929,Nakuru,Naivasha,Everyday,No
+CUST00930,Nakuru,Naivasha,Premium,Yes
+CUST00931,Kiambu,Kiambu Town,Everyday,Yes
+CUST00932,Nakuru,Nakuru Town,Value Seeker,No
+CUST00933,Machakos,Machakos Town,Everyday,No
+CUST00934,Nairobi,Eastleigh,Value Seeker,No
+CUST00935,Nyeri,Nyeri Town,Everyday,Yes
+CUST00936,Uasin Gishu,Eldoret Town,Premium,Yes
+CUST00937,Nairobi,Westlands,Everyday,Yes
+CUST00938,Machakos,Machakos Town,Everyday,No
+CUST00939,Kiambu,Kiambu Town,Value Seeker,Yes
+CUST00940,Nyeri,Nyeri Town,Everyday,Yes
+CUST00941,Nairobi,Kilimani,Loyal,Yes
+CUST00942,Nakuru,Naivasha,Everyday,No
+CUST00943,Machakos,Athi River,Everyday,No
+CUST00944,Kiambu,Kiambu Town,Everyday,Yes
+CUST00945,Nairobi,Westlands,Everyday,Yes
+CUST00946,Kisumu,Mamboleo,Value Seeker,No
+CUST00947,Nyeri,Nyeri Town,Everyday,Yes
+CUST00948,Nyeri,Nyeri Town,Value Seeker,Yes
+CUST00949,Machakos,Athi River,Premium,Yes
+CUST00950,Kisumu,Mamboleo,Premium,Yes
+CUST00951,Mombasa,Nyali,Everyday,No
+CUST00952,Kiambu,Ruiru,Everyday,No
+CUST00953,Nakuru,Naivasha,Loyal,Yes
+CUST00954,Mombasa,Nyali,Everyday,No
+CUST00955,Nakuru,Nakuru Town,Everyday,Yes
+CUST00956,Nyeri,Nyeri Town,Everyday,Yes
+CUST00957,Kisumu,Kisumu CBD,Everyday,No
+CUST00958,Uasin Gishu,Eldoret Town,Everyday,Yes
+CUST00959,Kiambu,Ruiru,Value Seeker,Yes
+CUST00960,Uasin Gishu,Eldoret Town,Value Seeker,No
+CUST00961,Mombasa,Mombasa CBD,Value Seeker,No
+CUST00962,Machakos,Machakos Town,Everyday,Yes
+CUST00963,Nakuru,Naivasha,Everyday,No
+CUST00964,Mombasa,Mombasa CBD,Loyal,No
+CUST00965,Nyeri,Nyeri Town,Everyday,No
+CUST00966,Nyeri,Nyeri Town,Everyday,Yes
+CUST00967,Kisumu,Kisumu CBD,Loyal,Yes
+CUST00968,Kisumu,Kisumu CBD,Loyal,Yes
+CUST00969,Nairobi,Embakasi,Loyal,Yes
+CUST00970,Nairobi,Eastleigh,Value Seeker,No
+CUST00971,Mombasa,Likoni,Everyday,No
+CUST00972,Mombasa,Likoni,Value Seeker,Yes
+CUST00973,Machakos,Athi River,Value Seeker,Yes
+CUST00974,Mombasa,Mombasa CBD,Everyday,Yes
+CUST00975,Mombasa,Mombasa CBD,Premium,Yes
+CUST00976,Nyeri,Nyeri Town,Everyday,No
+CUST00977,Nakuru,Nakuru Town,Everyday,Yes
+CUST00978,Nairobi,Kilimani,Value Seeker,No
+CUST00979,Machakos,Athi River,Loyal,Yes
+CUST00980,Nairobi,Eastleigh,Everyday,No
+CUST00981,Kisumu,Kisumu CBD,Everyday,No
+CUST00982,Uasin Gishu,Eldoret Town,Value Seeker,No
+CUST00983,Nakuru,Naivasha,Everyday,No
+CUST00984,Nyeri,Nyeri Town,Loyal,Yes
+CUST00985,Mombasa,Likoni,Everyday,Yes
+CUST00986,Kisumu,Kisumu CBD,Everyday,Yes
+CUST00987,Uasin Gishu,Eldoret Town,Value Seeker,No
+CUST00988,Uasin Gishu,Eldoret Town,Value Seeker,No
+CUST00989,Nyeri,Nyeri Town,Value Seeker,No
+CUST00990,Nairobi,Kilimani,Everyday,Yes
+CUST00991,Mombasa,Mombasa CBD,Value Seeker,Yes
+CUST00992,Nairobi,Kilimani,Everyday,Yes
+CUST00993,Machakos,Machakos Town,Loyal,No
+CUST00994,Kiambu,Thika,Everyday,No
+CUST00995,Nyeri,Nyeri Town,Everyday,No
+CUST00996,Mombasa,Mombasa CBD,Loyal,Yes
+CUST00997,Kisumu,Kisumu CBD,Loyal,No
+CUST00998,Nyeri,Nyeri Town,Everyday,No
+CUST00999,Mombasa,Nyali,Everyday,No
+CUST01000,Mombasa,Mombasa CBD,Everyday,No
+CUST01001,Nairobi,Westlands,Everyday,Yes
+CUST01002,Nairobi,Embakasi,Value Seeker,No
+CUST01003,Nairobi,Embakasi,Everyday,No
+CUST01004,Machakos,Athi River,Value Seeker,Yes
+CUST01005,Machakos,Machakos Town,Everyday,Yes
+CUST01006,Kiambu,Ruiru,Value Seeker,No
+CUST01007,Kisumu,Kisumu CBD,Everyday,Yes
+CUST01008,Kiambu,Kiambu Town,Everyday,Yes
+CUST01009,Uasin Gishu,Eldoret Town,Everyday,Yes
+CUST01010,Machakos,Athi River,Everyday,No
+CUST01011,Uasin Gishu,Eldoret Town,Premium,No
+CUST01012,Nakuru,Naivasha,Value Seeker,No
+CUST01013,Mombasa,Likoni,Value Seeker,No
+CUST01014,Kisumu,Mamboleo,Value Seeker,No
+CUST01015,Mombasa,Mombasa CBD,Everyday,Yes
+CUST01016,Nyeri,Nyeri Town,Everyday,No
+CUST01017,Uasin Gishu,Eldoret Town,Everyday,Yes
+CUST01018,Kiambu,Thika,Value Seeker,No
+CUST01019,Kiambu,Thika,Everyday,No
+CUST01020,Kiambu,Kiambu Town,Everyday,No
+CUST01021,Machakos,Athi River,Loyal,Yes
+CUST01022,Mombasa,Mombasa CBD,Value Seeker,Yes
+CUST01023,Nakuru,Naivasha,Everyday,Yes
+CUST01024,Mombasa,Mombasa CBD,Everyday,Yes
+CUST01025,Nairobi,Kilimani,Everyday,No
+CUST01026,Machakos,Athi River,Value Seeker,No
+CUST01027,Nakuru,Nakuru Town,Loyal,Yes
+CUST01028,Kiambu,Kiambu Town,Everyday,No
+CUST01029,Uasin Gishu,Eldoret Town,Everyday,Yes
+CUST01030,Nyeri,Nyeri Town,Value Seeker,No
+CUST01031,Mombasa,Likoni,Value Seeker,Yes
+CUST01032,Kisumu,Mamboleo,Premium,No
+CUST01033,Kisumu,Mamboleo,Premium,No
+CUST01034,Nakuru,Naivasha,Premium,No
+CUST01035,Nyeri,Nyeri Town,Value Seeker,No
+CUST01036,Kiambu,Ruiru,Value Seeker,Yes
+CUST01037,Nakuru,Naivasha,Everyday,No
+CUST01038,Nairobi,Eastleigh,Everyday,Yes
+CUST01039,Machakos,Athi River,Everyday,Yes
+CUST01040,Nyeri,Nyeri Town,Everyday,No
+CUST01041,Mombasa,Mombasa CBD,Value Seeker,Yes
+CUST01042,Nyeri,Nyeri Town,Everyday,Yes
+CUST01043,Kisumu,Kisumu CBD,Everyday,Yes
+CUST01044,Uasin Gishu,Eldoret Town,Loyal,Yes
+CUST01045,Kiambu,Kiambu Town,Premium,No
+CUST01046,Nairobi,Westlands,Loyal,No
+CUST01047,Uasin Gishu,Eldoret Town,Loyal,No
+CUST01048,Nyeri,Nyeri Town,Premium,No
+CUST01049,Machakos,Machakos Town,Loyal,Yes
+CUST01050,Nairobi,Embakasi,Value Seeker,Yes
+CUST01051,Uasin Gishu,Eldoret Town,Loyal,Yes
+CUST01052,Nyeri,Nyeri Town,Value Seeker,No
+CUST01053,Uasin Gishu,Eldoret Town,Everyday,Yes
+CUST01054,Machakos,Machakos Town,Everyday,No
+CUST01055,Mombasa,Mombasa CBD,Everyday,No
+CUST01056,Nyeri,Nyeri Town,Everyday,No
+CUST01057,Machakos,Machakos Town,Everyday,No
+CUST01058,Uasin Gishu,Eldoret Town,Everyday,Yes
+CUST01059,Mombasa,Mombasa CBD,Value Seeker,Yes
+CUST01060,Kisumu,Kisumu CBD,Value Seeker,No
+CUST01061,Nakuru,Nakuru Town,Loyal,Yes
+CUST01062,Nyeri,Nyeri Town,Everyday,No
+CUST01063,Mombasa,Mombasa CBD,Value Seeker,No
+CUST01064,Nyeri,Nyeri Town,Everyday,Yes
+CUST01065,Machakos,Machakos Town,Value Seeker,Yes
+CUST01066,Nakuru,Naivasha,Value Seeker,Yes
+CUST01067,Nyeri,Nyeri Town,Everyday,No
+CUST01068,Kisumu,Mamboleo,Everyday,Yes
+CUST01069,Uasin Gishu,Eldoret Town,Value Seeker,Yes
+CUST01070,Kisumu,Mamboleo,Everyday,No
+CUST01071,Nyeri,Nyeri Town,Everyday,No
+CUST01072,Nyeri,Nyeri Town,Loyal,No
+CUST01073,Machakos,Athi River,Loyal,Yes
+CUST01074,Kiambu,Thika,Everyday,No
+CUST01075,Uasin Gishu,Eldoret Town,Loyal,No
+CUST01076,Kisumu,Mamboleo,Loyal,No
+CUST01077,Nyeri,Nyeri Town,Everyday,Yes
+CUST01078,Mombasa,Mombasa CBD,Everyday,No
+CUST01079,Kiambu,Thika,Everyday,Yes
+CUST01080,Kiambu,Thika,Premium,No
+CUST01081,Nairobi,Westlands,Loyal,Yes
+CUST01082,Kiambu,Ruiru,Value Seeker,Yes
+CUST01083,Machakos,Athi River,Everyday,No
+CUST01084,Nyeri,Nyeri Town,Everyday,Yes
+CUST01085,Nairobi,Westlands,Value Seeker,No
+CUST01086,Nyeri,Nyeri Town,Premium,No
+CUST01087,Nyeri,Nyeri Town,Premium,Yes
+CUST01088,Nyeri,Nyeri Town,Value Seeker,No
+CUST01089,Uasin Gishu,Eldoret Town,Value Seeker,Yes
+CUST01090,Nyeri,Nyeri Town,Everyday,No
+CUST01091,Mombasa,Likoni,Everyday,Yes
+CUST01092,Uasin Gishu,Eldoret Town,Value Seeker,Yes
+CUST01093,Nyeri,Nyeri Town,Everyday,No
+CUST01094,Kisumu,Kisumu CBD,Loyal,No
+CUST01095,Nakuru,Naivasha,Loyal,No
+CUST01096,Machakos,Machakos Town,Everyday,No
+CUST01097,Machakos,Machakos Town,Everyday,No
+CUST01098,Nakuru,Naivasha,Everyday,No
+CUST01099,Machakos,Machakos Town,Loyal,Yes
+CUST01100,Mombasa,Likoni,Everyday,No
+CUST01101,Nyeri,Nyeri Town,Loyal,No
+CUST01102,Nakuru,Naivasha,Everyday,Yes
+CUST01103,Nairobi,Kilimani,Premium,No
+CUST01104,Kisumu,Kisumu CBD,Loyal,Yes
+CUST01105,Nakuru,Nakuru Town,Everyday,No
+CUST01106,Nakuru,Naivasha,Everyday,No
+CUST01107,Uasin Gishu,Eldoret Town,Value Seeker,Yes
+CUST01108,Uasin Gishu,Eldoret Town,Loyal,Yes
+CUST01109,Nairobi,Eastleigh,Loyal,Yes
+CUST01110,Nyeri,Nyeri Town,Everyday,No
+CUST01111,Machakos,Machakos Town,Everyday,Yes
+CUST01112,Machakos,Athi River,Everyday,Yes
+CUST01113,Nakuru,Naivasha,Loyal,Yes
+CUST01114,Nakuru,Naivasha,Everyday,No
+CUST01115,Uasin Gishu,Eldoret Town,Value Seeker,Yes
+CUST01116,Kiambu,Ruiru,Value Seeker,No
+CUST01117,Nakuru,Naivasha,Loyal,Yes
+CUST01118,Kiambu,Thika,Value Seeker,No
+CUST01119,Nairobi,Kilimani,Loyal,Yes
+CUST01120,Machakos,Machakos Town,Everyday,Yes
+CUST01121,Nyeri,Nyeri Town,Everyday,Yes
+CUST01122,Nakuru,Nakuru Town,Value Seeker,No
+CUST01123,Nairobi,Westlands,Everyday,Yes
+CUST01124,Kiambu,Thika,Value Seeker,No
+CUST01125,Uasin Gishu,Eldoret Town,Loyal,Yes
+CUST01126,Machakos,Athi River,Loyal,No
+CUST01127,Nairobi,Embakasi,Loyal,No
+CUST01128,Nyeri,Nyeri Town,Value Seeker,No
+CUST01129,Uasin Gishu,Eldoret Town,Everyday,Yes
+CUST01130,Kiambu,Kiambu Town,Everyday,No
+CUST01131,Kisumu,Mamboleo,Value Seeker,No
+CUST01132,Mombasa,Nyali,Value Seeker,No
+CUST01133,Nakuru,Naivasha,Loyal,No
+CUST01134,Nakuru,Naivasha,Loyal,Yes
+CUST01135,Kisumu,Mamboleo,Everyday,No
+CUST01136,Kiambu,Thika,Value Seeker,Yes
+CUST01137,Nairobi,Kilimani,Everyday,Yes
+CUST01138,Nakuru,Nakuru Town,Value Seeker,Yes
+CUST01139,Nairobi,Embakasi,Value Seeker,No
+CUST01140,Nairobi,Eastleigh,Everyday,Yes
+CUST01141,Nairobi,Kilimani,Value Seeker,Yes
+CUST01142,Nyeri,Nyeri Town,Everyday,No
+CUST01143,Uasin Gishu,Eldoret Town,Loyal,No
+CUST01144,Nairobi,Westlands,Loyal,Yes
+CUST01145,Nakuru,Nakuru Town,Everyday,Yes
+CUST01146,Machakos,Machakos Town,Everyday,Yes
+CUST01147,Mombasa,Mombasa CBD,Loyal,No
+CUST01148,Kiambu,Kiambu Town,Value Seeker,No
+CUST01149,Machakos,Machakos Town,Everyday,Yes
+CUST01150,Machakos,Athi River,Value Seeker,No
+CUST01151,Uasin Gishu,Eldoret Town,Value Seeker,No
+CUST01152,Uasin Gishu,Eldoret Town,Loyal,No
+CUST01153,Uasin Gishu,Eldoret Town,Value Seeker,Yes
+CUST01154,Machakos,Athi River,Everyday,No
+CUST01155,Nyeri,Nyeri Town,Everyday,Yes
+CUST01156,Kisumu,Kisumu CBD,Value Seeker,No
+CUST01157,Nairobi,Eastleigh,Premium,Yes
+CUST01158,Uasin Gishu,Eldoret Town,Loyal,No
+CUST01159,Mombasa,Nyali,Everyday,No
+CUST01160,Mombasa,Nyali,Everyday,Yes
+CUST01161,Nakuru,Naivasha,Loyal,Yes
+CUST01162,Machakos,Machakos Town,Loyal,No
+CUST01163,Nyeri,Nyeri Town,Value Seeker,Yes
+CUST01164,Kisumu,Kisumu CBD,Loyal,No
+CUST01165,Kiambu,Thika,Premium,No
+CUST01166,Uasin Gishu,Eldoret Town,Everyday,Yes
+CUST01167,Nakuru,Nakuru Town,Value Seeker,No
+CUST01168,Nairobi,Eastleigh,Value Seeker,No
+CUST01169,Mombasa,Likoni,Value Seeker,Yes
+CUST01170,Mombasa,Nyali,Value Seeker,No
+CUST01171,Nyeri,Nyeri Town,Everyday,No
+CUST01172,Machakos,Machakos Town,Everyday,Yes
+CUST01173,Nyeri,Nyeri Town,Value Seeker,No
+CUST01174,Kiambu,Ruiru,Value Seeker,Yes
+CUST01175,Mombasa,Likoni,Value Seeker,No
+CUST01176,Machakos,Machakos Town,Value Seeker,Yes
+CUST01177,Nakuru,Nakuru Town,Everyday,No
+CUST01178,Uasin Gishu,Eldoret Town,Everyday,No
+CUST01179,Machakos,Athi River,Everyday,No
+CUST01180,Uasin Gishu,Eldoret Town,Loyal,Yes
+CUST01181,Uasin Gishu,Eldoret Town,Value Seeker,No
+CUST01182,Nairobi,Kilimani,Everyday,No
+CUST01183,Mombasa,Mombasa CBD,Loyal,Yes
+CUST01184,Nairobi,Kilimani,Premium,Yes
+CUST01185,Kisumu,Kisumu CBD,Everyday,Yes
+CUST01186,Kisumu,Mamboleo,Value Seeker,No
+CUST01187,Nakuru,Nakuru Town,Everyday,No
+CUST01188,Nyeri,Nyeri Town,Value Seeker,Yes
+CUST01189,Machakos,Machakos Town,Everyday,Yes
+CUST01190,Kisumu,Kisumu CBD,Loyal,No
+CUST01191,Nairobi,Embakasi,Value Seeker,Yes
+CUST01192,Kiambu,Ruiru,Value Seeker,No
+CUST01193,Kiambu,Thika,Everyday,No
+CUST01194,Nakuru,Naivasha,Value Seeker,Yes
+CUST01195,Uasin Gishu,Eldoret Town,Loyal,Yes
+CUST01196,Mombasa,Nyali,Value Seeker,No
+CUST01197,Nairobi,Westlands,Everyday,No
+CUST01198,Uasin Gishu,Eldoret Town,Everyday,Yes
+CUST01199,Nairobi,Eastleigh,Value Seeker,No
+CUST01200,Kisumu,Kisumu CBD,Premium,No

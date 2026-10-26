@@ -1,0 +1,19 @@
+Field,Definition
+transaction_id,Unique ID for a transaction; multiple rows can share an ID because each row is an item line.
+transaction_datetime,Date and time when the transaction occurred.
+transaction_date,Calendar date of the transaction.
+line_number,Item line number within a transaction.
+store_id / store_name,Identifier and fictional name of the retail outlet.
+county / town,Kenyan county and town where the store is located.
+customer_id,Pseudonymous synthetic customer identifier; not a real person's identity.
+product_id / product_name,Identifier and name of the product sold.
+product_category,Retail category assigned to the product.
+quantity,Number of units purchased on the item line.
+unit_price_kes,Simulated selling price per unit in Kenyan shillings.
+gross_sales_kes,quantity × unit_price_kes before discount.
+promotion,Promotion associated with the transaction.
+discount_rate,"Discount proportion applied to the item line, from 0 to 0.15."
+discount_amount_kes,Discount value in Kenyan shillings.
+net_sales_kes,Gross sales less discount; use this for net revenue analysis.
+payment_method,"Simulated payment type, including M-Pesa."
+Data provenance,"Entire workbook is synthetic, generated for educational use; it is not real company data."

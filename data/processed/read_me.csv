@@ -1,0 +1,14 @@
+Item,Details
+Dataset title,Customer and Sales Intelligence for a Kenyan Retailer
+Purpose,"Practice EDA, customer segmentation, store/product performance, churn proxy and sales forecasting."
+Data type,"Synthetic simulated data, not collected from a real retailer."
+Time coverage,2025-01-01 to 2025-12-31
+Transaction rows,"10,035 item-level sales rows"
+Unique transactions,"5,000"
+Unique customers represented in sales,"1,176"
+Stores,18 fictional stores across 8 Kenyan counties
+Products,24
+Currency,Kenyan shillings (KES)
+Important limitation,Do not describe the transactions or outcomes as real Kenyan retail evidence. No actual M-Pesa records are included.
+Suggested analyses,Monthly net sales; revenue by county/store/category; promotion performance; M-Pesa share; RFM/customer recency; next-month forecasting.
+Reproducibility / licence note,Generated for this capstone practice file. Cite as an author-generated synthetic dataset and check your institution's rules before submission.
