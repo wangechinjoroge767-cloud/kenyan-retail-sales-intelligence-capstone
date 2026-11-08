@@ -847,4 +847,8 @@ SELECT
         COVAR_SAMP(gross_sales_kes, net_sales_kes),
         4
     )
+<<<<<<< HEAD
 FROM sales;
+=======
+FROM sales;
+>>>>>>> b1a00a14265a391c0753e91424dd73af6db70d9d
