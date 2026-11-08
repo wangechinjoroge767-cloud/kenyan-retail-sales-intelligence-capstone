@@ -535,3 +535,316 @@ SELECT
         2
     ) AS loyalty_membership_percentage
 FROM customers;
+
+
+-- TASK 1A: MONTHLY REVENUE AND MONTH-ON-MONTH GROWTH
+-- Purpose: Use LAG() to compare monthly revenue.
+
+
+WITH monthly_sales AS (
+    SELECT
+        DATE_TRUNC('month', transaction_date)::date AS sales_month,
+        SUM(net_sales_kes) AS monthly_revenue
+    FROM sales
+    GROUP BY DATE_TRUNC('month', transaction_date)
+),
+sales_growth AS (
+    SELECT
+        sales_month,
+        monthly_revenue,
+        LAG(monthly_revenue) OVER (
+            ORDER BY sales_month
+        ) AS previous_month_revenue
+    FROM monthly_sales
+)
+SELECT
+    sales_month,
+    monthly_revenue,
+    previous_month_revenue,
+    ROUND(
+        100.0 * (monthly_revenue - previous_month_revenue)
+        / NULLIF(previous_month_revenue, 0),
+        2
+    ) AS growth_percentage
+FROM sales_growth
+ORDER BY sales_month;
+
+
+
+-- TASK 1B: RANK STORES WITHIN EACH COUNTY
+- Identify the highest-performing stores.
+
+WITH store_sales AS (
+    SELECT
+        st.store_id,
+        st.county,
+        SUM(s.net_sales_kes) AS total_revenue
+    FROM sales s
+    JOIN stores st
+        ON s.store_id = st.store_id
+    GROUP BY
+        st.store_id,
+        st.county
+)
+SELECT
+    store_id,
+    county,
+    total_revenue,
+    RANK() OVER (
+        PARTITION BY county
+        ORDER BY total_revenue DESC
+    ) AS store_rank
+FROM store_sales
+ORDER BY
+    county,
+    store_rank;
+
+-- TASK 1C: RUNNING TOTAL OF SALES REVENUE
+-- Calculate cumulative daily revenue.
+
+SELECT
+    transaction_date,
+    SUM(net_sales_kes) AS daily_revenue,
+    SUM(SUM(net_sales_kes)) OVER (
+        ORDER BY transaction_date
+        ROWS BETWEEN UNBOUNDED PRECEDING
+        AND CURRENT ROW
+    ) AS running_total_revenue
+FROM sales
+GROUP BY transaction_date
+ORDER BY transaction_date;
+
+-- TASK 2: CUSTOMER COHORT ANALYSIS
+-- Group customers by their first purchase month
+-- and track their return activity in later months.
+
+WITH first_purchase AS (
+    SELECT
+        customer_id,
+        DATE_TRUNC('month', MIN(transaction_date))::date
+            AS cohort_month
+    FROM sales
+    GROUP BY customer_id
+),
+monthly_activity AS (
+    SELECT DISTINCT
+        customer_id,
+        DATE_TRUNC('month', transaction_date)::date
+            AS activity_month
+    FROM sales
+),
+cohort_data AS (
+    SELECT
+        fp.cohort_month,
+        ma.activity_month,
+        (
+            EXTRACT(YEAR FROM ma.activity_month) -
+            EXTRACT(YEAR FROM fp.cohort_month)
+        ) * 12 +
+        (
+            EXTRACT(MONTH FROM ma.activity_month) -
+            EXTRACT(MONTH FROM fp.cohort_month)
+        ) AS months_since_first_purchase,
+        COUNT(DISTINCT ma.customer_id) AS active_customers
+    FROM first_purchase fp
+    JOIN monthly_activity ma
+        ON fp.customer_id = ma.customer_id
+    GROUP BY
+        fp.cohort_month,
+        ma.activity_month
+),
+cohort_sizes AS (
+    SELECT
+        cohort_month,
+        COUNT(*) AS cohort_customers
+    FROM first_purchase
+    GROUP BY cohort_month
+)
+SELECT
+    cd.cohort_month,
+    cd.activity_month,
+    cd.months_since_first_purchase,
+    cs.cohort_customers,
+    cd.active_customers,
+    ROUND(
+        100.0 * cd.active_customers /
+        NULLIF(cs.cohort_customers, 0),
+        2
+    ) AS retention_percentage
+FROM cohort_data cd
+JOIN cohort_sizes cs
+    ON cd.cohort_month = cs.cohort_month
+ORDER BY
+    cd.cohort_month,
+    cd.activity_month;
+
+
+-- TASK 3: RFM CUSTOMER SEGMENTATION
+--  Segment customers using:
+-- Recency, Frequency and Monetary value.
+-- NTILE() assigns scores from 1 to 5.
+
+WITH customer_rfm AS (
+    SELECT
+        customer_id,
+        MAX(transaction_date) AS last_purchase_date,
+        (
+            SELECT MAX(transaction_date)
+            FROM sales
+        ) - MAX(transaction_date) AS recency_days,
+        COUNT(DISTINCT transaction_id) AS frequency,
+        SUM(net_sales_kes) AS monetary_value
+    FROM sales
+    GROUP BY customer_id
+),
+rfm_scores AS (
+    SELECT
+        customer_id,
+        last_purchase_date,
+        recency_days,
+        frequency,
+        monetary_value,
+
+        NTILE(5) OVER (
+            ORDER BY recency_days DESC
+        ) AS recency_score,
+
+        NTILE(5) OVER (
+            ORDER BY frequency ASC
+        ) AS frequency_score,
+
+        NTILE(5) OVER (
+            ORDER BY monetary_value ASC
+        ) AS monetary_score
+
+    FROM customer_rfm
+)
+SELECT
+    customer_id,
+    last_purchase_date,
+    recency_days,
+    frequency,
+    ROUND(monetary_value, 2) AS monetary_value_kes,
+    recency_score,
+    frequency_score,
+    monetary_score,
+    (
+        recency_score +
+        frequency_score +
+        monetary_score
+    ) AS rfm_total_score,
+
+    CASE
+        WHEN recency_score >= 4
+             AND frequency_score >= 4
+             AND monetary_score >= 4
+            THEN 'High Value Customers'
+
+        WHEN recency_score >= 4
+             AND frequency_score >= 3
+            THEN 'Loyal Customers'
+
+        WHEN recency_score >= 4
+             AND frequency_score <= 2
+            THEN 'New or Promising Customers'
+
+        WHEN recency_score <= 2
+             AND frequency_score >= 3
+             AND monetary_score >= 3
+            THEN 'At Risk Customers'
+
+        WHEN recency_score <= 2
+             AND frequency_score <= 2
+            THEN 'Lost or Inactive Customers'
+
+        ELSE 'Regular Customers'
+    END AS customer_segment
+
+FROM rfm_scores
+ORDER BY rfm_total_score DESC;
+
+
+-- TASK 4: CORRELATION ANALYSIS
+-- Examine relationships between sales variables.
+-- CORR() returns a value between -1 and +1.
+
+SELECT
+    'Quantity and Net Sales' AS variable_relationship,
+    ROUND(
+        CORR(quantity::numeric, net_sales_kes),
+        4
+    ) AS correlation_coefficient
+FROM sales
+
+UNION ALL
+
+SELECT
+    'Unit Price and Net Sales',
+    ROUND(
+        CORR(unit_price_kes, net_sales_kes),
+        4
+    )
+FROM sales
+
+UNION ALL
+
+SELECT
+    'Discount Rate and Net Sales',
+    ROUND(
+        CORR(discount_rate, net_sales_kes),
+        4
+    )
+FROM sales
+
+UNION ALL
+
+SELECT
+    'Gross Sales and Net Sales',
+    ROUND(
+        CORR(gross_sales_kes, net_sales_kes),
+        4
+    )
+FROM sales;
+
+-- TASK 5: COVARIANCE ANALYSIS
+-- Examine how sales variables change together.
+-- Positive covariance means variables tend to move together.
+-- Negative covariance means they tend to move in opposite directions.
+
+SELECT
+    'Quantity and Net Sales' AS variable_relationship,
+    ROUND(
+        COVAR_SAMP(quantity::numeric, net_sales_kes),
+        4
+    ) AS covariance_value
+FROM sales
+
+UNION ALL
+
+SELECT
+    'Unit Price and Net Sales',
+    ROUND(
+        COVAR_SAMP(unit_price_kes, net_sales_kes),
+        4
+    )
+FROM sales
+
+UNION ALL
+
+SELECT
+    'Discount Rate and Net Sales',
+    ROUND(
+        COVAR_SAMP(discount_rate, net_sales_kes),
+        4
+    )
+FROM sales
+
+UNION ALL
+
+SELECT
+    'Gross Sales and Net Sales',
+    ROUND(
+        COVAR_SAMP(gross_sales_kes, net_sales_kes),
+        4
+    )
+FROM sales;
